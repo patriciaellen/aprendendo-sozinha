@@ -78,11 +78,11 @@ let numero4 = 2
 console.log(numero3 + numero4)
 
 /**
- As variaveis pode receber dados dos tipos:
+ As variaveis podem receber dados dos tipos:
  - STRING (TEXTO)
  - NUMBER (NUMEROS)
  - BOOLEANS (PODEM SER TRUE OU FALSE) o valor de true é 1 e de false é 2.
-                    ↑ EU SO APRENDI ESSE ACIMA ↑ 
+                    ↑ EU SÓ APRENDI ESSE ACIMA ↑ 
                       ↓ PESQUISAR OS A BAIXO ↓
  - ARRAYS (LISTAS) listas de qualquer tipo de variavel, incluindo listas de listas.
  - MAPAS - Pare de chave e valor.
