@@ -68,11 +68,36 @@ OPERAÇÕES MATEMATICAS
 */
 let numero1 = 1000
 let numero2 = 500
-console.log(numero1 + numero2)
-console.log(numero1 - numero2)
+console.log(numero1+numero2)
+console.log(numero1-numero2)
 console.log(numero1*numero2)
 console.log(numero1/numero2)
 
 let numero3 = 5 + 5 // Isso também pode ser feito
 let numero4 = 2
 console.log(numero3 + numero4)
+
+/**
+ As variaveis pode receber dados dos tipos:
+ - STRING (TEXTO)
+ - NUMBER (NUMEROS)
+ - BOOLEANS (PODEM SER TRUE OU FALSE) o valor de true é 1 e de false é 2.
+                    ↑ EU SO APRENDI ESSE ACIMA ↑ 
+                      ↓ PESQUISAR OS A BAIXO ↓
+ - ARRAYS (LISTAS) listas de qualquer tipo de variavel, incluindo listas de listas.
+ - MAPAS - Pare de chave e valor.
+ */
+
+ // As variaves tambem podem vir assim:
+
+ let x = 1 
+ let y = x 
+
+ let x1 = 1+1 // ele vai resolver
+ let y1 = x1
+// o valor da variavel y é o mesmo da variavel x
+
+console.log(x)
+console.log(y)
+console.log(x1)
+console.log(y1)
