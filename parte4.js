@@ -2,13 +2,13 @@
 Aprendendo a Iterar: Iterar é repetir um conjunto de comandos de um código.
 
 Exemplos: 
-JOGO DE LUTA: *ENQUANTO* o aversario estiver "vivo", vou bater nele 
+JOGO DE LUTA: *ENQUANTO* o adversario estiver "vivo", vou bater nele 
 
 FAZENDO UM OVO MEXIDO : *ENQUANTO* o ovo não estiver misturado e pronto, vou mexer ele. 
 
 UM CAVALO COMENDO: *ENQUANTO* ainda estiver com fome, vou continuar comendo.
 
-*Enquanto*2 (condição) se for verdade repete o comando, não é verdade pula esses comandos.. 
+*Enquanto* (condição) se for verdade repete o comando, não é verdade pula esses comandos.. 
 
 Para essa repetição usamos o comando WHILE
 */
