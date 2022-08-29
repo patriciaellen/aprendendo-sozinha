@@ -43,3 +43,25 @@ while (contador1 <= numeroTabuada){
     console.log(resultado1)
     contador1 = contador1 + 1
 }
+
+// SIMPLIFICANDO: (talvez?)
+// Ver de novo:
+
+let numeroSubtracao = 20
+let numeroASerDiminuido = 10
+let i = 1 
+
+while (i <= numeroASerDiminuido){
+    console.log(`${numeroSubtracao} - ${i} = ${numeroSubtracao - i}`)
+    i++ 
+}
+
+/* variavel numeroSubtração valor: 20 
+variavel numeroASerDiminuido valor: 10
+variavel i valor:1 
+
+enquanto 1 for menor ou igual a 10 
+vai imprimir na tela: 20-1 = 20-1 (a condição vai calcular)
+a variavel 1 recebe +1 e agora o valor dela á 2, e o looping continua....
+
+*/
